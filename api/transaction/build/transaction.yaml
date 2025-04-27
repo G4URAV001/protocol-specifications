@@ -29,7 +29,7 @@ paths:
                   type: object
                   properties:
                     intent:
-                      $ref: '#/components/schemas/Intent'
+                      $ref: '#/components/schemas/Intent
               required:
                 - context
                 - message
